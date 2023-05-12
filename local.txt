@@ -1,3 +1,9 @@
 pull
+<<<<<<< HEAD
 
 first
+=======
+new_branch
+
+again main
+>>>>>>> new_branch
